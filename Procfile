@@ -1,0 +1,1 @@
+java -cp target/chatserver-1.0.jar chatserver.App
